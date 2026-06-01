@@ -4,6 +4,8 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
@@ -17,34 +19,15 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yosoyemi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3&icon_color=7dd3fc&ring_color=38bdf8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoyemi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yosoyemi&hide_border=true&background=0d1117&stroke=1e3a5f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=7d8590&dates=4b5563&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=1e3a5f&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true&radius=4)](https://github.com/yosoyemi)
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosoyemi&theme=github_dark" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -53,22 +36,18 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yosoyemi&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+<img src="https://streak-stats.demolab.com?user=yosoyemi&hide_border=true&background=0d1117&stroke=1e3a5f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=7d8590&dates=4b5563&currStreakNum=e6edf3&sideNums=e6edf3" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yosoyemi/yosoyemi/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=90&section=footer&text=&fontSize=0" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=1e3a5f&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true&radius=4)](https://github.com/yosoyemi)
 
 </div>
