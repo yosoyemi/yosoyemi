@@ -1,10 +1,10 @@
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Roberto+Emiliano+%2F%2F+yosoyemi;Industrial+Eng.+%C3%97+AI+Student+%C3%97+Builder;Aguascalientes%2C+MX+%E2%80%94+Open+to+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Roberto+Emiliano+%2F%2F+yosoyemi;Industrial+Eng.+%C3%97+AI+Student+%C3%97+Builder;Aguascalientes%2C+MX+%E2%80%94+Open+to+work;Building+AI+tools+%26+full-stack+systems)](https://git.io/typing-svg)
 
 </div>
 
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
@@ -15,9 +15,14 @@
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f87171&labelColor=0d1117&color=3b0c0c)
 
+</div>
+
+---
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yosoyemi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3&icon_color=7dd3fc&ring_color=38bdf8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoyemi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3" />
 
 </div>
 
@@ -33,5 +38,37 @@
 
 </div>
 
+---
 
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosoyemi&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yosoyemi&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yosoyemi&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yosoyemi&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yosoyemi/yosoyemi/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=90&section=footer&text=&fontSize=0" />
+
+</div>
