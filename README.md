@@ -1,4 +1,3 @@
-<!-- Roberto Emiliano · GitHub Profile -->
 
 <div align="center">
 
@@ -6,17 +5,6 @@
 
 </div>
 
----
-
-Ingeniero Industrial + Estudiante de IA. Construyo software que resuelve problemas reales de negocio — no demos, productos en producción. Trabajo en el cruce entre automatización, inteligencia artificial y desarrollo de producto.
-
-```
-Especialidad  →  AI · Full Stack · Automatización
-Industrias    →  Retail · Logística · Servicios
-Stack         →  Python · TypeScript · React · FastAPI · SQL
-```
-
----
 
 ## `// stack`
 
@@ -31,19 +19,30 @@ Stack         →  Python · TypeScript · React · FastAPI · SQL
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=c4b5fd&labelColor=0d1117&color=2e1f5e)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f87171&labelColor=0d1117&color=3b0c0c)
 
----
 
 ## `// stats`
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=yosoyemi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=7d8590&rank_icon=github" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=yosoyemi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=7d8590&rank_icon=github&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoyemi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=7d8590&langs_count=5" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoyemi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=7d8590&langs_count=6&hide=jupyter%20notebook" />
 
 </div>
 
----
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yosoyemi&hide_border=true&background=0d1117&stroke=1e3a5f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=7d8590&dates=4b5563&currStreakNum=e6edf3&sideNums=e6edf3" />
+
+</div>
+
+## `// actividad`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=1e3a5f&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true&radius=4)](https://github.com/yosoyemi)
+
+</div>
 
 ## `// connect`
 
@@ -57,8 +56,3 @@ Stack         →  Python · TypeScript · React · FastAPI · SQL
 
 </div>
 
----
-
-<div align="center">
-<sub><code>yosoyemi · 2025</code></sub>
-</div>
