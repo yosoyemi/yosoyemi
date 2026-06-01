@@ -33,16 +33,40 @@
 ---
 
 <!-- ABOUT -->
-```ts
-const roberto = {
-  title    : "Industrial Engineer + AI Engineering Student",
-  focus    : ["AI Tools", "Full Stack Dev", "Data Science", "Automation"],
-  building : "Software solutions for real-world businesses",
-  stack    : ["Python", "TypeScript", "React", "FastAPI", "SQL"],
-  learning : "LLMs · Agents · MLOps",
-  contact  : "yosoyemi @ GitHub",
-};
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### Roberto Emiliano
+
+Ingeniero Industrial + Estudiante de IA con enfoque en construir software que resuelve problemas reales de negocio — no demos, no prototipos, productos en producción.
+
+Trabajo en el cruce entre automatización industrial, inteligencia artificial y desarrollo de producto. Cada proyecto parte de un proceso roto y termina en una herramienta que lo reemplaza.
+
 ```
+Especialidad  →  AI · Full Stack · Automatización
+Industrias    →  Retail · Logística · Servicios
+Ubicación     →  Aguascalientes, MX
+Disponible    →  Open to work
+```
+
+</td>
+<td valign="top" width="40%">
+
+### `// por los números`
+
+| | |
+|---|---|
+| **6 – 15** | proyectos completados |
+| **3 +** | años de experiencia |
+| **2** | carreras en curso |
+| **4** | dominios de trabajo |
+| **1** | objetivo: impacto real |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,7 +77,7 @@ const roberto = {
 <tr>
 <td width="25%" align="center">
 
-**🧠 AI Engineering**
+**AI Engineering**
 <br/>
 LLMs · Agents
 <br/>
@@ -62,7 +86,7 @@ RAG · Prompting
 </td>
 <td width="25%" align="center">
 
-**📊 Data Science**
+**Data Science**
 <br/>
 Python · ML
 <br/>
@@ -71,7 +95,7 @@ Dashboards · Viz
 </td>
 <td width="25%" align="center">
 
-**⚡ Full Stack**
+**Full Stack**
 <br/>
 React · Node.js
 <br/>
@@ -80,7 +104,7 @@ REST · SQL
 </td>
 <td width="25%" align="center">
 
-**🔧 Automation**
+**Automation**
 <br/>
 CRM · POS
 <br/>
