@@ -51,70 +51,7 @@ Ubicación     →  Aguascalientes, MX
 Disponible    →  Open to work
 ```
 
-</td>
-<td valign="top" width="40%">
 
-### `// por los números`
-
-| | |
-|---|---|
-| **6 – 15** | proyectos completados |
-| **3 +** | años de experiencia |
-| **2** | carreras en curso |
-| **4** | dominios de trabajo |
-| **1** | objetivo: impacto real |
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- WHAT I BUILD -->
-## `// what i build`
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**AI Engineering**
-<br/>
-LLMs · Agents
-<br/>
-RAG · Prompting
-
-</td>
-<td width="25%" align="center">
-
-**Data Science**
-<br/>
-Python · ML
-<br/>
-Dashboards · Viz
-
-</td>
-<td width="25%" align="center">
-
-**Full Stack**
-<br/>
-React · Node.js
-<br/>
-REST · SQL
-
-</td>
-<td width="25%" align="center">
-
-**Automation**
-<br/>
-CRM · POS
-<br/>
-Workflows · Bots
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- STACK -->
 ## `// stack`
