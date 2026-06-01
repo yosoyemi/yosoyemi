@@ -6,8 +6,6 @@
 </div>
 
 
-## `// stack`
-
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
@@ -20,13 +18,8 @@
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f87171&labelColor=0d1117&color=3b0c0c)
 
 
-## `// stats`
-
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yosoyemi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=7d8590&rank_icon=github&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoyemi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=7d8590&langs_count=6&hide=jupyter%20notebook" />
 
 </div>
 
@@ -36,23 +29,11 @@
 
 </div>
 
-## `// actividad`
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=1e3a5f&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true&radius=4)](https://github.com/yosoyemi)
 
 </div>
 
-## `// connect`
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)](https://linkedin.com/in/tu-perfil)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=e6edf3&labelColor=0d1117&color=1c1c1c)](https://tu-portfolio.dev)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171&labelColor=0d1117&color=3b0c0c)](mailto:tu@email.com)
-
-</div>
 
