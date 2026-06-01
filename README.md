@@ -13,8 +13,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=86efac&labelColor=0d1117&color=0a2e1a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=86efac&labelColor=0d1117&color=0a2e1a)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=c4b5fd&labelColor=0d1117&color=2e1f5e)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=c4b5fd&labelColor=0d1117&color=2e1f5e)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f87171&labelColor=0d1117&color=3b0c0c)
 
 
