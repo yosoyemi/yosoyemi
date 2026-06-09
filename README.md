@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Roberto+Emiliano+%2F%2F+yosoyemi;Industrial+Eng.+%C3%97+AI+Student+%C3%97+Builder;Aguascalientes%2C+MX+%E2%80%94+Open+to+work;Building+AI+tools+%26+full-stack+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Roberto+Emiliano+%2F%2F+yosoyemi;AI+Engineer+%C3%97+Industrial+Engineer;Certified+Data+Science;Aguascalientes%2C+MX+%E2%80%94+Open+to+work;Building+AI+tools+%26+full-stack+systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,14 +8,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=86efac&labelColor=0d1117&color=0a2e1a)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=86efac&labelColor=0d1117&color=0a2e1a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=86efac&labelColor=0d1117&color=0a2e1a)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f87171&labelColor=0d1117&color=3b0c0c)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=700&color=EF4444&center=true&vCenter=true&width=760&lines=AI+ENGINEER;INDUSTRIAL+ENGINEER;CERTIFIED+DATA+SCIENCE;FULL+STACK+BUILDER" alt="Pixel Typing SVG" />
 
 </div>
 
@@ -23,7 +16,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosoyemi&theme=github_dark" />
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=dc2626)
+![Industrial Engineer](https://img.shields.io/badge/Industrial%20Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=1e3a8a)
+![Certified Data Science](https://img.shields.io/badge/Certified%20Data%20Science-0d1117?style=for-the-badge&labelColor=0d1117&color=dc2626)
 
 </div>
 
@@ -31,8 +26,14 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yosoyemi&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yosoyemi&theme=github_dark" />
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8&labelColor=0d1117&color=1e3a8a)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8&labelColor=0d1117&color=1e3a8a)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8&labelColor=0d1117&color=1e3a8a)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=38bdf8&labelColor=0d1117&color=1e3a8a)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=ef4444&labelColor=0d1117&color=dc2626)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8&labelColor=0d1117&color=1e3a8a)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=38bdf8&labelColor=0d1117&color=1e3a8a)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ef4444&labelColor=0d1117&color=dc2626)
 
 </div>
 
@@ -40,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yosoyemi&hide_border=true&background=0d1117&stroke=1e3a5f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=7d8590&dates=4b5563&currStreakNum=e6edf3&sideNums=e6edf3" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosoyemi&theme=github_dark" />
 
 </div>
 
@@ -48,6 +49,33 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=1e3a5f&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true&radius=4)](https://github.com/yosoyemi)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yosoyemi&theme=github_dark" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yosoyemi&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="96%" src="https://streak-stats.demolab.com?user=yosoyemi&hide_border=true&background=0d1117&stroke=1e3a8a&ring=38bdf8&fire=ef4444&currStreakLabel=38bdf8&sideLabels=e6edf3&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/yosoyemi">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=ef4444&point=38bdf8&area=true&area_color=1e3a8a&hide_border=true&radius=6" />
+</a>
 
 </div>
