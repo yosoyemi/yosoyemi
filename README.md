@@ -1,24 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Roberto+Emiliano+%2F%2F+yosoyemi;AI+Engineer+%C3%97+Industrial+Engineer;Certified+Data+Science;Aguascalientes%2C+MX+%E2%80%94+Open+to+work;Building+AI+tools+%26+full-stack+systems)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=700&color=EF4444&center=true&vCenter=true&width=760&lines=AI+ENGINEER;INDUSTRIAL+ENGINEER;CERTIFIED+DATA+SCIENCE;FULL+STACK+BUILDER" alt="Pixel Typing SVG" />
 
-</div>
+<div align="center">
 
+<a href="https://github.com/yosoyemi">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=ef4444&point=38bdf8&area=true&area_color=1e3a8a&hide_border=true&radius=6" />
+</a>
+
+</div>
 <br/>
 
 <div align="center">
-
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=dc2626)
-![Industrial Engineer](https://img.shields.io/badge/Industrial%20Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=1e3a8a)
-![Certified Data Science](https://img.shields.io/badge/Certified%20Data%20Science-0d1117?style=for-the-badge&labelColor=0d1117&color=dc2626)
 
 </div>
 
@@ -72,10 +65,3 @@
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/yosoyemi">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=ef4444&point=38bdf8&area=true&area_color=1e3a8a&hide_border=true&radius=6" />
-</a>
-
-</div>
