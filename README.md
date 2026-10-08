@@ -1,57 +1,58 @@
-<!-- EMI · minimalist GitHub profile / github.com/yosoyemi -->
-
 <div align="center">
 
-  <h1>emi.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Roberto+Emiliano+%2F%2F+yosoyemi;Industrial+Eng.+%C3%97+AI+Student+%C3%97+Builder;Aguascalientes%2C+MX+%E2%80%94+Open+to+work;Building+AI+tools+%26+full-stack+systems)](https://git.io/typing-svg)
 
 </div>
 
-<br>
-
-<!-- 01 / NUMBERS + LANGUAGES -->
-
 <div align="center">
 
-<img
- width="49%"
- src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yosoyemi&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=e6edf3&amp;icon_color=ef4444&amp;chart_color=58a6ff&amp;hide_logo=true"
- alt="GitHub statistics"
-/>
-<img
- width="49%"
- src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yosoyemi&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=e6edf3&amp;icon_color=ef4444&amp;chart_color=58a6ff"
- alt="Languages used in repositories"
-/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=86efac&labelColor=0d1117&color=0a2e1a)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=86efac&labelColor=0d1117&color=0a2e1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=86efac&labelColor=0d1117&color=0a2e1a)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7dd3fc&labelColor=0d1117&color=1e3a5f)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f87171&labelColor=0d1117&color=3b0c0c)
 
 </div>
 
-<!-- 02 / ACTIVITY -->
-
 <div align="center">
 
-<img
- width="99%"
- src="https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&amp;bg_color=0d1117&amp;color=8b949e&amp;line=58a6ff&amp;point=ef4444&amp;area=true&amp;area_color=14263d&amp;hide_border=true&amp;hide_title=true&amp;grid=false&amp;radius=0&amp;height=250"
- alt="Recent GitHub activity"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yosoyemi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3&icon_color=7dd3fc&ring_color=38bdf8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoyemi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3" />
 
 </div>
 
-<!-- 03 / OPTIONAL DETAILS; COLLAPSED BY DEFAULT -->
+<div align="center">
 
-<details align="center">
-  <summary><sub>more data ↓</sub></summary>
-  <br>
-  <div align="center">
-    <img
-      width="49%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yosoyemi&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=e6edf3&amp;chart_color=58a6ff"
-      alt="Languages used in commits"
-    />
-    <img
-      width="49%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yosoyemi&amp;theme=github_dark&amp;utcOffset=-6&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=e6edf3&amp;chart_color=58a6ff"
-      alt="Commit activity by time of day (UTC-6)"
-    />
-  </div>
-</details>
+<img src="https://streak-stats.demolab.com?user=yosoyemi&hide_border=true&background=0d1117&stroke=1e3a5f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=7d8590&dates=4b5563&currStreakNum=e6edf3&sideNums=e6edf3" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=1e3a5f&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true&radius=4)](https://github.com/yosoyemi)
+
+</div>
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosoyemi&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yosoyemi&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yosoyemi&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yosoyemi&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+
+</div>
+
