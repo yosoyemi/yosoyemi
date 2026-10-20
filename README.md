@@ -24,11 +24,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yosoyemi&hide_border=true&background=0d1117&stroke=1e3a5f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=7d8590&dates=4b5563&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-</div>
 
 <div align="center">
 
@@ -48,11 +43,4 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yosoyemi&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yosoyemi&theme=github_dark" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yosoyemi&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
-
-</div>
 
