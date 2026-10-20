@@ -17,12 +17,7 @@
 
 </div>
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yosoyemi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3&icon_color=7dd3fc&ring_color=38bdf8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosoyemi&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3" />
-
-</div>
 
 
 <div align="center">
