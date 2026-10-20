@@ -17,16 +17,6 @@
 
 </div>
 
-
-
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosoyemi&bg_color=0d1117&color=38bdf8&line=1e3a5f&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true&radius=4)](https://github.com/yosoyemi)
-
-</div>
-
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosoyemi&theme=github_dark" />
